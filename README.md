@@ -1,0 +1,2 @@
+# mediapipe_project
+基于人体姿态估计的家庭健身应用的设计与实现APP
